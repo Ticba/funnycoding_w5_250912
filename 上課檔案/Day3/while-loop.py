@@ -1,6 +1,6 @@
 # 迴圈 -> 重複
 # while 迴圈就是
-# 1. 先判斷 2. 要不要做 True 繼續做 | False 不做了
+# 1. 先判斷 2. 要不要做？ True 繼續做 | False 不做了
 '''
 while True:
     print(1)  # 無止盡的輸出 1
