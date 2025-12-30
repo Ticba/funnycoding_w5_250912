@@ -1,9 +1,0 @@
-{
-    "apple    {'apple':1}": 1,
-    "banana   {'apple':1, 'banana':1}": 1,
-    'berry': 1,
-    "apple    {'apple':2, ...}": 1,
-    'apple': 1,
-    'pineapple': 1,
-    'guava': 1
-}
